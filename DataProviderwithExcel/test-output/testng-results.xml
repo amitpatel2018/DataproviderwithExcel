@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-30T10:40:01 GMT" name="Default suite" finished-at="2020-12-30T10:40:02 GMT" duration-ms="783">
+    <groups>
+    </groups>
+    <test started-at="2020-12-30T10:40:01 GMT" name="Default test" finished-at="2020-12-30T10:40:02 GMT" duration-ms="783">
+      <class name="testcases.ReadExcelDataTest">
+        <test-method signature="getTestData([Ljava.lang.String;)[pri:0, instance:testcases.ReadExcelDataTest@152aa092]" started-at="2020-12-30T10:40:02 GMT" name="getTestData" data-provider="testdata" finished-at="2020-12-30T10:40:02 GMT" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@6b54655f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestData -->
+        <test-method signature="getTestData([Ljava.lang.String;)[pri:0, instance:testcases.ReadExcelDataTest@152aa092]" started-at="2020-12-30T10:40:02 GMT" name="getTestData" data-provider="testdata" finished-at="2020-12-30T10:40:02 GMT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@665e9289]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestData -->
+        <test-method signature="getTestData([Ljava.lang.String;)[pri:0, instance:testcases.ReadExcelDataTest@152aa092]" started-at="2020-12-30T10:40:02 GMT" name="getTestData" data-provider="testdata" finished-at="2020-12-30T10:40:02 GMT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7d3430a7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestData -->
+        <test-method signature="getTestData([Ljava.lang.String;)[pri:0, instance:testcases.ReadExcelDataTest@152aa092]" started-at="2020-12-30T10:40:02 GMT" name="getTestData" data-provider="testdata" finished-at="2020-12-30T10:40:02 GMT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@6f603e89]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestData -->
+        <test-method signature="getTestData([Ljava.lang.String;)[pri:0, instance:testcases.ReadExcelDataTest@152aa092]" started-at="2020-12-30T10:40:02 GMT" name="getTestData" data-provider="testdata" finished-at="2020-12-30T10:40:02 GMT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2756c0a7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestData -->
+      </class> <!-- testcases.ReadExcelDataTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
